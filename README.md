@@ -21,7 +21,7 @@ Execute the main script using Python:
 
 python wdbc_classification.py
 
-## Output Files
+## 6. Output Files
 wdbc_classification_matrix.png: Confusion matrix visualization of the best-performing model.
 
 wdbc_classification_scatter.png: Scatter plot visualization of the dataset features.
