@@ -16,16 +16,17 @@ To run this project, ensure you have the necessary libraries installed. You can 
 ```bash
 pip install -r requirements.txt
 
-5. How to Run the Code
+
+## 5. How to Run the Code
 Execute the main script using Python:
 
 python wdbc_classification.py
 
-Output Files
+## Output Files
 wdbc_classification_matrix.png: Confusion matrix visualization of the best-performing model.
 
 wdbc_classification_scatter.png: Scatter plot visualization of the dataset features.
 
 short_report.txt: A detailed report covering methodology, results, and analysis.
 
-7. Best Classifier Result
+## 7. Best Classifier Result
