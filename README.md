@@ -29,3 +29,7 @@ wdbc_classification_scatter.png: Scatter plot visualization of the dataset featu
 short_report.txt: A detailed report covering methodology, results, and analysis.
 
 ## 7. Best Classifier Result
+SVM Accuracy: 0.9357
+Decision Tree Accuracy: 0.9415
+KNN Accuracy: 0.9591
+Random Forest Accuracy: 0.9708  
