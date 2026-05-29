@@ -13,7 +13,6 @@ This project is designed to perform binary classification on the Breast Cancer d
 ## 4. How to Install Requirements
 To run this project, ensure you have the necessary libraries installed. You can install them using the following command:
 
-```bash
 pip install -r requirements.txt
 
 
