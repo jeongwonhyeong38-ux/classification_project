@@ -1,0 +1,14 @@
+1. Which classifiers did you test?
+- Support Vector Machine (SVM), Decision Tree, K-Nearest Neighbors (KNN), and Random Forest.
+
+2. Which classifier gave the best accuracy?
+-  Random Forest gave the best accuracy.
+
+3. What does the confusion matrix show?
+- The confusion matrix displays the performance of the classification model by showing the number of true positives, true negatives, false positives, and false negatives. It helps visualize how often the model correctly predicted malignant and benign cases.
+
+4. Was the model good at predicting both classes?
+- Yes, the model showed high accuracy in distinguishing between malignant and benign tumors, which indicates that the features selected are effective for this classification task.
+
+5. Why is documentation important in an open-source ML project?
+- Documentation is essential because it allows other developers to understand the project's purpose, reproduce the results, and contribute to the code. It ensures that the model can be maintained, verified, and used effectively by the community.
